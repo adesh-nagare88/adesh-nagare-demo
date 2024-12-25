@@ -1,2 +1,3 @@
 # adesh-nagare-demo
-this my repository
+This is my repository
+Author-adesh nagare
